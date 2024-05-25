@@ -1,0 +1,13 @@
+filename = 'awesomedungeon-forge-1.19.2-3.2.0.jar'
+name = 'Awesome Dungeon - Forge'
+side = 'both'
+
+[download]
+hash = '49f7840d4ab4ff4877a2c33b7c9014049cdf6162'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4494359
+project-id = 531320

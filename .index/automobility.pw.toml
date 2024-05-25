@@ -1,0 +1,13 @@
+filename = 'automobility-0.4.2+1.19.2-forge.jar'
+name = 'Automobility'
+side = 'both'
+
+[download]
+hash = 'a11d050bb6bb30a6f9a6fe2748c79da5b0158effe093e6714df80354af6f950755048bb5323759ed61539f4479bf870f5d0bc5bf59cbad6e69433b3175e749be'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rqIsPf9F/versions/G4rPgXtN/automobility-0.4.2%2B1.19.2-forge.jar'
+
+[update.modrinth]
+mod-id = 'rqIsPf9F'
+version = 'G4rPgXtN'

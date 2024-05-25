@@ -1,0 +1,13 @@
+filename = 'MyNethersDelight-1.19-0.1.1.jar'
+name = "My Nether's Delight"
+side = 'both'
+
+[download]
+hash = '507633865bcdb5599ade516dfb6e85cc89f54fbd24f5b5cb2637c386bc09dde6f0198eadb163c8de3f9c243b02524747b4f5b7d6063632dd2ab3b8243944be54'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O53VhQoZ/versions/QpOM0APe/MyNethersDelight-1.19-0.1.1.jar'
+
+[update.modrinth]
+mod-id = 'O53VhQoZ'
+version = 'QpOM0APe'

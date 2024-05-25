@@ -1,0 +1,13 @@
+filename = 'TheOneWhoWatches-V1.3.0-1.19.2.jar'
+name = 'The One Who Watches'
+side = 'both'
+
+[download]
+hash = '2a26e5bddc91e1670cb74e71b57017b760f87c9c084970dc5efd7c1a6cf4f8b806ea45429de84bcab94d1e5474e63e60754be939872f27ee286b2a94b3496ea7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/guhQmZQI/versions/j0Rc5tkt/TheOneWhoWatches-V1.3.0-1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'guhQmZQI'
+version = 'j0Rc5tkt'

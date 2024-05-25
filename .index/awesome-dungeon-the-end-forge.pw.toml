@@ -1,0 +1,13 @@
+filename = 'awesomedungeonend-forge-1.19.2-3.1.1.jar'
+name = 'Awesome Dungeon The End edition - Forge'
+side = 'both'
+
+[download]
+hash = 'b911c2cfe9edd7942a10adc36825f456d3693606'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4454472
+project-id = 575406

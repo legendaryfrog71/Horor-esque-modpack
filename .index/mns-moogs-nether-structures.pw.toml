@@ -1,0 +1,13 @@
+filename = 'mns-1.0.1-1.19.2-forge.jar'
+name = "MNS - Moog's Nether Structures"
+side = 'server'
+
+[download]
+hash = '96cc9144323ac55a65c8bcdfdadf1fc30872d16d95477e11cf96cfb689d7db833bff7567c2ea636e488144b83f4868466310fef720d1bbbe9faaf568b16f39fd'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/nGUXvjTa/versions/svpLC7Fk/mns-1.0.1-1.19.2-forge.jar'
+
+[update.modrinth]
+mod-id = 'nGUXvjTa'
+version = 'svpLC7Fk'

@@ -1,0 +1,13 @@
+filename = 'fancytrinkets-1.19-2.1.4.jar'
+name = 'Fancy Trinkets'
+side = 'both'
+
+[download]
+hash = '117bc40d5b5fe33a436c225ab0f082835ae25b8cc730702ad12dd00b850e3cdb76cd61e782b45b3eecce851cd71cb3a2e01d591ac60fbc050fa91d97d5b98d31'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qPFz1WPA/versions/dL9lH0Nk/fancytrinkets-1.19-2.1.4.jar'
+
+[update.modrinth]
+mod-id = 'qPFz1WPA'
+version = 'dL9lH0Nk'

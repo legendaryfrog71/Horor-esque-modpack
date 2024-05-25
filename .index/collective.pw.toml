@@ -1,0 +1,13 @@
+filename = 'collective-1.19.2-7.60.jar'
+name = 'Collective'
+side = 'both'
+
+[download]
+hash = 'b712b5a0a3d6944181f5dfd68fd827c1a9cc64343e83815fbebbf202876aa1c8e30a054168310a2c8b143ec3beb6b1b67005817e98c446ec6e13000750d513ab'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/e0M1UDsY/versions/DdVIUqCP/collective-1.19.2-7.60.jar'
+
+[update.modrinth]
+mod-id = 'e0M1UDsY'
+version = 'DdVIUqCP'

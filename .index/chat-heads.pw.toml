@@ -1,0 +1,13 @@
+filename = 'chat_heads-0.12.2-forge-1.19.2.jar'
+name = 'Chat Heads'
+side = 'client'
+
+[download]
+hash = '2d6c568c234e5a06a12ec7891d4e08bf27960746abbac5a302da90bfa50db359c0662221bd578e62fc5319812bbace72969f67fc8f31cbbb5e3548222ab5298a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wb5oqrBJ/versions/FpbEmSIH/chat_heads-0.12.2-forge-1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'Wb5oqrBJ'
+version = 'FpbEmSIH'

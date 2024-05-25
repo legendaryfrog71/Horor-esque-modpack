@@ -1,0 +1,13 @@
+filename = 'hardcorerevival-forge-1.19.2-9.0.2.jar'
+name = 'Hardcore Revival'
+side = 'both'
+
+[download]
+hash = 'e2b9832c6208ace06c03978ffb3dc9782da91f248157cba654468694a8613f0355ff8222f67d09a28813335d33c778f24ff36290f9b88da212ff5b12f372a725'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HqKoXaXz/versions/fomv8xij/hardcorerevival-forge-1.19.2-9.0.2.jar'
+
+[update.modrinth]
+mod-id = 'HqKoXaXz'
+version = 'fomv8xij'

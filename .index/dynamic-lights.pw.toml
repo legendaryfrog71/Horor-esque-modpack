@@ -1,0 +1,13 @@
+filename = 'dynamiclights-v1.8-mc1.17x-1.20x-mod.jar'
+name = 'Dynamic Lights'
+side = 'server'
+
+[download]
+hash = '108afa5715f6ef802359c82a6cdb9f3b16d7bf9efd83f2fcebe85b518b3f5447ef516e49ca5539969918a24157ef5b279c96bfa432bd93627317754c9b84425a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7YjclEGc/versions/bYYMl4xu/dynamiclights-v1.8-mc1.17x-1.20x-mod.jar'
+
+[update.modrinth]
+mod-id = '7YjclEGc'
+version = 'bYYMl4xu'

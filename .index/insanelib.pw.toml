@@ -1,0 +1,13 @@
+filename = 'InsaneLib-1.7.5-mc1.19.2.jar'
+name = 'InsaneLib'
+side = 'both'
+
+[download]
+hash = '3c4a926d2d3399cd289fca3b1553a679e16ae86fd33c95b04b8280272a0c95bd9ba8d6ec6d065ce6c1ff8eca72a466f41c9cb302730b05243c3c25e26b212ad9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/USZyvOJq/versions/UZWZIc1c/InsaneLib-1.7.5-mc1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'USZyvOJq'
+version = 'UZWZIc1c'

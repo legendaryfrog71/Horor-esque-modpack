@@ -1,0 +1,13 @@
+filename = 'mutantmore-1.19.2-early-access-1.0.7.jar'
+name = 'Mutant More'
+side = 'both'
+
+[download]
+hash = '1ee66a9f2e0eefac0ead5380147c3cd6557a7f9ceb8cdb67017a0c709978b9c9fa1d3922c6b05f2419539dd0d9fffff572237673b970643b385490271b7ef2b7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GmuH0lCA/versions/ZtQPx4lX/mutantmore-1.19.2-early-access-1.0.7.jar'
+
+[update.modrinth]
+mod-id = 'GmuH0lCA'
+version = 'ZtQPx4lX'

@@ -1,0 +1,13 @@
+filename = 'alexsmobs-1.21.1.jar'
+name = "Alex's Mobs"
+side = 'both'
+
+[download]
+hash = '0aaccaab482ddff6c88835f95b1c17bdef0260266b878f871fecf294f276307cabd8e670adf754faf374e3e900dfc20507a4fb16f6b28df7ee4d7b0b58c2d0f2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2cMuAZAp/versions/BgeYEhGG/alexsmobs-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '2cMuAZAp'
+version = 'BgeYEhGG'

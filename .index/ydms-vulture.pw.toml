@@ -1,0 +1,13 @@
+filename = 'vulture-forge-1.19.2-1.0.0.jar'
+name = "YDM's Vulture"
+side = 'both'
+
+[download]
+hash = 'afb6a6c6b0620cf6ac90fce511c533f85800d8beed7161a4bddf29b25d770ebf840550b26aa8d431637d63c4c14fad93f45a1affa68496af6a8412fe0ea87301'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oV7Y7Ydp/versions/6Jc0gq7O/vulture-forge-1.19.2-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'oV7Y7Ydp'
+version = '6Jc0gq7O'
