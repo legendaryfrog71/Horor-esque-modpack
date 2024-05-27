@@ -1,0 +1,13 @@
+filename = 'forgeautofish-5.1.0-1.19.x.jar'
+name = 'AutoFish for Forge'
+side = 'both'
+
+[download]
+hash = 'f9ca824ca00fdde11f49a397b2af775a335f3e8c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4478604
+project-id = 395327
