@@ -1,0 +1,13 @@
+filename = 'alexsmobsinteraction-3.2-all.jar'
+name = "Alex's Mobs Interaction"
+side = 'both'
+
+[download]
+hash = 'f23fbe519c3716ee951ddb2e6587fc95c3573bd9db543522d1551218b4acc9a7fc28871a0e90637fa428475c33a3b16df635272b9f5eb03863baefad25f1a008'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cQPcBgTD/versions/rea5DSAW/alexsmobsinteraction-3.2-all.jar'
+
+[update.modrinth]
+mod-id = 'cQPcBgTD'
+version = 'rea5DSAW'

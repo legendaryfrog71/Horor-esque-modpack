@@ -1,0 +1,13 @@
+filename = 'XP From Harvest Reworked-1.20.x-1.2.4.jar'
+name = 'XP From Harvest Reworked'
+side = 'server'
+
+[download]
+hash = 'f025b28a61916fb5490307f20b3e351086410e3b74d6eba186bd264951c74b1eb8794f75a79b9e87dcd2bab9515ca508bb5e3bba19b237c4b56eb75fd54620e2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FfR6U4UK/versions/CsCpskMu/XP From Harvest Reworked-1.20.x-1.2.4.jar'
+
+[update.modrinth]
+mod-id = 'FfR6U4UK'
+version = 'CsCpskMu'

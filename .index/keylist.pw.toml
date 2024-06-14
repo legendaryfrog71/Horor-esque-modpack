@@ -1,0 +1,13 @@
+filename = 'keylist-1.20.1-1.0-all.jar'
+name = 'Keylist'
+side = 'both'
+
+[download]
+hash = '0bca839656d6d5cfa9d2e59bd81c647f18b8d7c2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4657929
+project-id = 541648

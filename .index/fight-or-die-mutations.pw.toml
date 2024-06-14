@@ -1,0 +1,13 @@
+filename = 'fight_or_die-1.20.1-1.1.4.jar'
+name = 'Fight or Die: Mutations'
+side = 'both'
+
+[download]
+hash = '9a8f737e1c4f00f5c0a457cc4c7fdd15040e5e301a973c9a2ef76f00618ef6429c6b7dfa92bbfca5d2b1ec5a46764ac2310668404ddb6ec8ba2d9208f5556658'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/WZ49g0N6/versions/iec9o43q/fight_or_die-1.20.1-1.1.4.jar'
+
+[update.modrinth]
+mod-id = 'WZ49g0N6'
+version = 'iec9o43q'

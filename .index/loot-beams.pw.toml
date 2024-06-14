@@ -1,0 +1,13 @@
+filename = 'lootbeams-1.20.1-1.2.2.jar'
+name = 'Loot Beams: Relooted!'
+side = 'client'
+
+[download]
+hash = 'd83a154745f206d5837d703196ed664132c91cdbf865ebd8981d0315162683cdbf033e82dbe68eaf4dee48b8ea93e5586f0c918a453e6fd1a4c34dad27ff6605'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QWTmZu53/versions/Tj2fhhuD/lootbeams-1.20.1-1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'QWTmZu53'
+version = 'Tj2fhhuD'

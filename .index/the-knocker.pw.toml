@@ -1,13 +1,13 @@
-filename = 'the_knocker-1.1.1-1.19.2.jar'
+filename = 'the_knocker-1.1.1-1.20.1.jar'
 name = 'The Knocker'
 side = 'both'
 
 [download]
-hash = '9d97b3776e4ad254abaef0527363369f7a1f3a2c5a9b95a6dd933d162cd629bcbe284bdb7b892f5c7351f2e060d224fa5c6312de2d79a1b9d17d9d4be791d700'
+hash = 'a9572208e6cdc0dad20a113eb9cf7c8e740b512535016d46998b1f2c49242964321485e3e805f845276d1286e7ace019bbfb99d4c9402019cf0ebcff4a476009'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/hTju2zcV/versions/fXcr0iIk/the_knocker-1.1.1-1.19.2.jar'
+url = 'https://cdn.modrinth.com/data/hTju2zcV/versions/TZIIUqyL/the_knocker-1.1.1-1.20.1.jar'
 
 [update.modrinth]
 mod-id = 'hTju2zcV'
-version = 'fXcr0iIk'
+version = 'TZIIUqyL'

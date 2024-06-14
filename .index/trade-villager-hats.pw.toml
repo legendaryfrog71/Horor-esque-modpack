@@ -1,0 +1,13 @@
+filename = 'trade-villager-hats-0.1.0.jar'
+name = "Gen's Villager Hats"
+side = 'both'
+
+[download]
+hash = '487958972427a072663c9f25541ca83f2283e2d58d4a822e0666818a16856ae0b04ce6706c7c74d0c30816da01ed14d5741dc306dd7fb25f989fee9f29e4e50a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/L45eoNGD/versions/jXaQEro3/trade-villager-hats-0.1.0.jar'
+
+[update.modrinth]
+mod-id = 'L45eoNGD'
+version = 'jXaQEro3'

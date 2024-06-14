@@ -1,0 +1,13 @@
+filename = 'butcher-2.3.1.jar'
+name = 'Butchery'
+side = 'both'
+
+[download]
+hash = 'ad00b56fd2dbd56cce54c559b87bcbf4a88621071067c95b5d48a648829452e9b2e03567f413a6c5d5cdee7a1bcd18948fa1c12e49257ec43dde80fb13550d2f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/6YfOmC9t/versions/tmEnK0Xj/butcher-2.3.1.jar'
+
+[update.modrinth]
+mod-id = '6YfOmC9t'
+version = 'tmEnK0Xj'

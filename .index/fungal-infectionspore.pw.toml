@@ -1,0 +1,13 @@
+filename = 'spore_1.20.1_2.0.6b.jar'
+name = 'Fungal Infection:Spore'
+side = 'both'
+
+[download]
+hash = 'd7d24b85f3a9f64320b2e1b0e121ae3a4c7bdffa9c3566dac7aa954305eaaf5fc4ec39bda82c0857594fd5ec5b6c5b82ee5adfefbd4d4d88c3c0b42647bcef78'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/X661i40C/versions/zhshxmKA/spore_1.20.1_2.0.6b.jar'
+
+[update.modrinth]
+mod-id = 'X661i40C'
+version = 'zhshxmKA'

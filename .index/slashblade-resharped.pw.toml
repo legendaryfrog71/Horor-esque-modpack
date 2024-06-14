@@ -1,0 +1,13 @@
+filename = 'SlashBladeResharped-1.20.1-0.5.8.jar'
+name = 'SlashBlade:Resharped'
+side = 'both'
+
+[download]
+hash = '527d6a1ef5f5986368a47f8fb50b45508c285956e2541c8a690104bc6e86f53e658f48d7a3f2cb05f314b577242e23f892ca0b2e932e732035b48a2f4c539cb6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8T53F0sy/versions/Ec7BlYGY/SlashBladeResharped-1.20.1-0.5.8.jar'
+
+[update.modrinth]
+mod-id = '8T53F0sy'
+version = 'Ec7BlYGY'

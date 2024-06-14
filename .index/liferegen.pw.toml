@@ -1,0 +1,13 @@
+filename = 'LifeRegen 1.0.5 Forge 1.20.1.jar'
+name = 'LifeRegen'
+side = 'both'
+
+[download]
+hash = 'ca9e2d09c8f5c18fb999a229f87fd6ca955408cb8639be1984e2f0cdf2212e240721d772af2041d7dfd1c3a09412fbd7387b910dd369d704899098a68d52c8b5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EcaStnKg/versions/oalrEeP4/LifeRegen 1.0.5 Forge 1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'EcaStnKg'
+version = 'oalrEeP4'

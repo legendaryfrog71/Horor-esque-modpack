@@ -1,13 +1,13 @@
-filename = 'mcw-fences-1.1.1-mc1.19.2forge.jar'
+filename = 'mcw-fences-1.1.1-mc1.20.1forge.jar'
 name = "Macaw's Fences and Walls"
 side = 'both'
 
 [download]
-hash = '4db6843635017f4d7f2d4efe177ce29f73b40d9759102bb856a6796e97ad8fab3134114daaa067e78c67ce0dc5559f9554ac225f2a50c31f9d93d54ac76d1ddf'
+hash = '5f1724046963c8d85b75e398e96ed60b1ffbe85a7ad19110e98cedc4c2badae3c35afae28bc8772541887d96cff0874fc58fe9c41e8e84229044bcfbebb2d5b6'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/GmwLse2I/versions/a0v7Iz1Z/mcw-fences-1.1.1-mc1.19.2forge.jar'
+url = 'https://cdn.modrinth.com/data/GmwLse2I/versions/RrR8Pwu7/mcw-fences-1.1.1-mc1.20.1forge.jar'
 
 [update.modrinth]
 mod-id = 'GmwLse2I'
-version = 'a0v7Iz1Z'
+version = 'RrR8Pwu7'

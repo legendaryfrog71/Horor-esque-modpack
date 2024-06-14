@@ -1,0 +1,13 @@
+filename = 'boh-0.0.6.1-forge-1.20.1.jar'
+name = 'The Box Of Horrors'
+side = 'both'
+
+[download]
+hash = '38995d187a75ce8fd99d515504fb0e409f25273493e326a7a5799fe75bf0139730f5768159a52e8e159acce189d103006d7cddd6e7919f48db525782e2c20367'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Nt0wLqt5/versions/XNwoQ9ss/boh-0.0.6.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'Nt0wLqt5'
+version = 'XNwoQ9ss'

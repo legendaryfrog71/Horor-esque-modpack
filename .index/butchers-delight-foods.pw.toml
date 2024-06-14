@@ -1,13 +1,13 @@
-filename = 'Butchersdelight Foods beta 1.19.2 1.0.3.jar'
+filename = 'Butchersdelight Foods beta 1.20.1 1.0.3.jar'
 name = "Butcher's Delight Foods"
 side = 'both'
 
 [download]
-hash = '6fd4dc605103d2e76e9db77ce08139675473ae6ec6d4e52e8be7e65edf15f8be5247c0a47d1ad8e5cfd2a6f95240fb898e3844a31c79285b46401b20e876bfa7'
+hash = '20b48f5450e1ce3d02a677c1b3f25cf3275b80c929708cf0abf6a1ca547766c7d3da2cc1fa766698df57f050f8651ae0395d814193ef5db4fce4e500ca8bf626'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/u9J9M7PQ/versions/9DFsXzKl/Butchersdelight Foods beta 1.19.2 1.0.3.jar'
+url = 'https://cdn.modrinth.com/data/u9J9M7PQ/versions/dyDh7Fxr/Butchersdelight Foods beta 1.20.1 1.0.3.jar'
 
 [update.modrinth]
 mod-id = 'u9J9M7PQ'
-version = '9DFsXzKl'
+version = 'dyDh7Fxr'

@@ -1,0 +1,13 @@
+filename = 'antlers-1.0.0.jar'
+name = 'Antlers - The Wendigo'
+side = 'both'
+
+[download]
+hash = '6db2eb9ed44dab43f771a8ac33b0e829dd05ad94'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5255407
+project-id = 1002093

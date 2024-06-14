@@ -1,0 +1,13 @@
+filename = 'Connector-1.0.0-beta.43+1.20.1.jar'
+name = 'Sinytra Connector'
+side = 'both'
+
+[download]
+hash = '8fcd9ca0eac01515bf4306b9dd98d57b798554742332bb57d19c5a329e1d91acb3afb3a11dc89b28f7d671798368d93ba7244f69461b45f534c0cbff02d1df8f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/u58R1TMW/versions/LM3aqTbN/Connector-1.0.0-beta.43%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'u58R1TMW'
+version = 'LM3aqTbN'

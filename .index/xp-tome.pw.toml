@@ -1,0 +1,13 @@
+filename = 'xptome-1.20.1-2.2.jar'
+name = 'XP Tome'
+side = 'both'
+
+[download]
+hash = '428c5812d570bbf8d4873b1d6f502c7009f894fe5ab7f62f94b5bb90135c62b7545c5a16af0d75e508ba9730431471e1ea11d69e4f34f2cc4e3ef77eef2020c2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AnpW69o3/versions/mnWWXf5F/xptome-1.20.1-2.2.jar'
+
+[update.modrinth]
+mod-id = 'AnpW69o3'
+version = 'mnWWXf5F'

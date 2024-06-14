@@ -1,0 +1,13 @@
+filename = 'Icarus-NeoForge-2.9.1.jar'
+name = 'Icarus'
+side = 'both'
+
+[download]
+hash = '66e55aa6cc9dd8885fae3f583661bbf816cdb27ba2343ff5bacc7f67b043a2e4766072f7c5665879158f089545671e9ef15191999dad14d149d5d9ba93048978'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Dw7M6XKW/versions/ibRIVnvS/Icarus-NeoForge-2.9.1.jar'
+
+[update.modrinth]
+mod-id = 'Dw7M6XKW'
+version = 'ibRIVnvS'

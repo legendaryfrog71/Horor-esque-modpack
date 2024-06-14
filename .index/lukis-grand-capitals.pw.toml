@@ -1,0 +1,13 @@
+filename = 'luki-s-grand-capitals-0.7-forge-1.19-1.20.1.jar'
+name = "Luki's Grand Capitals"
+side = 'server'
+
+[download]
+hash = '8353eccbbd137a80f8df2efd3820c8f56a2430cc96a66ca6d2ca9018d8d8ddefc9a394d1b5bc31cdb7c4dc03c5fb6f12311b7524083a8086c27cf1178e556ab2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8Lw09aLb/versions/bzU7MXet/luki-s-grand-capitals-0.7-forge-1.19-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '8Lw09aLb'
+version = 'bzU7MXet'

@@ -1,13 +1,13 @@
-filename = 'MutantMonsters-v4.0.6-1.19.2-Forge.jar'
+filename = 'MutantMonsters-v8.0.7-1.20.1-Forge.jar'
 name = 'Mutant Monsters'
 side = 'both'
 
 [download]
-hash = 'd6c625b7e50ecc0cefb5c6e7d0fd0a8f2f10af45e6b97a419e3e8d946aefb2f011018cd40dcfa2b04de55a58195922eabead299a41715a36e51542a06ccbac8d'
+hash = '5c649b288fd67c40511e2a0b37270888941462f0cd5869364fb903f14b0bbc0c57dd7bcfc7e16189a45210f65049ac37dc55cca7bb24663610327189c2325552'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/derP0ten/versions/CkbS2PLp/MutantMonsters-v4.0.6-1.19.2-Forge.jar'
+url = 'https://cdn.modrinth.com/data/derP0ten/versions/Pp3ZK1tZ/MutantMonsters-v8.0.7-1.20.1-Forge.jar'
 
 [update.modrinth]
 mod-id = 'derP0ten'
-version = 'CkbS2PLp'
+version = 'Pp3ZK1tZ'

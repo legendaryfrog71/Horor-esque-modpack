@@ -1,0 +1,13 @@
+filename = 'epicsamurai-0.0.44-1.20.1-neo.jar'
+name = "Epic Samurai's - Forge"
+side = 'both'
+
+[download]
+hash = '7fe5b90a8df21121fae173ee81cb90c5444ce8950cb0b600aa24323538aaa703c2f51e213714408be3f0dd3b5adee46aedfc63584b0652c9f075c0262ad7a9fc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lMWJDrbO/versions/mHJlXvkG/epicsamurai-0.0.44-1.20.1-neo.jar'
+
+[update.modrinth]
+mod-id = 'lMWJDrbO'
+version = 'mHJlXvkG'

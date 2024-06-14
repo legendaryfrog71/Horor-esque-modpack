@@ -1,0 +1,13 @@
+filename = 'Kambrik-6.1.0+1.20.1-forge.jar'
+name = 'Kambrik'
+side = 'both'
+
+[download]
+hash = 'e850147729b5455102d2035888c757dac6aae059e6501d1affbc2a6b3a399f17a5fa94cb269be7818ed06ac4e3b14c537cd10d2b4df63332f742a1d0ce3fc089'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zfbCkvdZ/versions/E0GS19K7/Kambrik-6.1.0%2B1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'zfbCkvdZ'
+version = 'E0GS19K7'

@@ -1,0 +1,13 @@
+filename = 'moredelight-1.1.2-1.20.1-forge.jar'
+name = "More Delight - Farmer's Delight"
+side = 'both'
+
+[download]
+hash = 'bdf0a87135cafa912c5930f3e7ec27d25738a480bf5e7e7592b876ef58d91b6a1af2c03437409a39b77fd925b939cf77751d01bd8e57a0407583a29920a8421e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/znHQQtuU/versions/NUWrNtCs/moredelight-1.1.2-1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'znHQQtuU'
+version = 'NUWrNtCs'

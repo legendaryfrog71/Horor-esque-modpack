@@ -1,13 +1,13 @@
-filename = 'healingcampfire-1.19.2-5.3.jar'
+filename = 'healingcampfire-1.20.1-5.3.jar'
 name = 'Healing Campfire'
 side = 'server'
 
 [download]
-hash = '02c77af9b6978be28fcf90bac834dd227b538a6596db565684a0ffe43661d4ddb6a5738c65c746ca789fb6001cb65c22146be1fc4f1220763e37eb9697a0b91c'
+hash = 'ba3040538a6764c30612ab2370ca082bdf7738ece4121ef7948f96604ee5023e1e6809d864b3c6c6d2856eaf07dc56a1f8adacceb0ae9d8a58cddd55a6d244db'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/kOuPUitF/versions/GaNg5Wb9/healingcampfire-1.19.2-5.3.jar'
+url = 'https://cdn.modrinth.com/data/kOuPUitF/versions/rexDJ2gs/healingcampfire-1.20.1-5.3.jar'
 
 [update.modrinth]
 mod-id = 'kOuPUitF'
-version = 'GaNg5Wb9'
+version = 'rexDJ2gs'

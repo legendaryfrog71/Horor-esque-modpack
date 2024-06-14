@@ -1,13 +1,13 @@
-filename = 'watut-forge-1.19.2-1.0.14.jar'
+filename = 'watut-forge-1.20.1-1.1.1.jar'
 name = 'What Are They Up To (Watut)'
 side = 'both'
 
 [download]
-hash = 'cbfd4c98a3a839ea175d02eb6040e1bd9569ea3b05633e5e8d0c2c2d962f32dc51bcafd1f4d251e14136a02f665b2ea840bf74690cca98ea81f6ea1f9673cccb'
+hash = '3f7d6146ce537c68a05247d467302f4ca488f1bc066b7eefd5c6e383e3fe036be5411ea9767152bd7b286ca135df932766c50931abc668ed15117f7de20ecf71'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/AtB5mHky/versions/L63H84ys/watut-forge-1.19.2-1.0.14.jar'
+url = 'https://cdn.modrinth.com/data/AtB5mHky/versions/VAZtNTND/watut-forge-1.20.1-1.1.1.jar'
 
 [update.modrinth]
 mod-id = 'AtB5mHky'
-version = 'L63H84ys'
+version = 'VAZtNTND'
